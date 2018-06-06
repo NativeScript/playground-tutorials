@@ -1,0 +1,9 @@
+{
+	"title": "Getting Started",
+	"description": "Learn how to build a cross-platform iOS and Android app for managing grocery lists using NativeScript and Javascript.",
+	"estimateTime": "30",
+    "supportedTemplates": ["play-js", "groceries-js"],
+    "displayOrder": 4,
+	"targetTemplate": "groceries-js",
+	"disabled": false
+}

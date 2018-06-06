@@ -1,0 +1,9 @@
+{
+	"title": "Build a Full App",
+	"description": "Learn how to build a cross-platform iOS and Android app for managing grocery lists using NativeScript and Angular.",
+	"estimateTime": "120",
+    "supportedTemplates": ["play-ng", "groceries-ng"],
+    "displayOrder": 2,
+	"targetTemplate": "groceries-ng",
+	"disabled": false
+}

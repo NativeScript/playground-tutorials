@@ -1,0 +1,9 @@
+{
+	"title": "Getting Started",
+	"description": "Learn the basics of NativeScript with a series of quick tutorials.",
+	"estimateTime": "15",
+	"supportedTemplates": ["play-ng", "groceries-ng"],
+	"displayOrder": 1,
+	"targetTemplate": "play-ng",
+	"disabled": false
+}
