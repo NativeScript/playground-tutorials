@@ -4,4 +4,4 @@ You can complete that tutorial in Playground, or, if you prefer to work in a loc
 
 As always, if you get stuck, feel free to reach for help on the [**NativeScript Community Forum**](https://discourse.nativescript.org/). Have fun building with NativeScript!
 
-<a href="/?template=groceries-ng&tutorial=groceries-ng">Start the&nbsp;<strong>Build a Full App</strong>&nbsp;tutorial</a>
+<a id="btn-next-tutorial" href="/?template=groceries-ng&tutorial=groceries-ng">Start the&nbsp;<strong>Build a Full App</strong>&nbsp;tutorial</a>
