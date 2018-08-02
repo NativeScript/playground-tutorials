@@ -1,0 +1,9 @@
+{
+	"title": "CleanWeather",
+	"description": "Learn how to build a cross-platform iOS and Android Weather app, using NativeScript-Vue",
+	"estimateTime": "30",
+    "supportedTemplates": ["blank-vue"],
+    "displayOrder": 4,
+	"targetTemplate": "blank-vue",
+	"disabled": false
+}
