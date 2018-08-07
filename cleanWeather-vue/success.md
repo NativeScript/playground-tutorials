@@ -1,0 +1,1 @@
+If you are interested in learning more about this integration, please visit the #vue channel on NativeScript Community Slack, read the [docs](http://www.nativescript-vue.org) and read more about it on our [blog](http://www.nativescript.org/blog).
