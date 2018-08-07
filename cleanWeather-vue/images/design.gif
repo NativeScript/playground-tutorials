@@ -37,10 +37,10 @@
     <meta property="og:image" content="https://avatars1.githubusercontent.com/u/31074292?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Shantanu-Kotambkar/playground-tutorials" /><meta property="og:url" content="https://github.com/Shantanu-Kotambkar/playground-tutorials" /><meta property="og:description" content="Contribute to playground-tutorials development by creating an account on GitHub." />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6Mjk5MjMwODI4OmE5ODhhOWVhNjA1NGRjNmZmNTI2ZDFlYzY4NWE4OTA4YjdiZTk2ZTA1MTY1MGNhY2ZmMzdjNzM0ODcwYTdjYzc=--c06978d45483edb643f57b3f35b23164e47e299d">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzA0Mzk2MDMyOjU0NzJiOTAxZmQ1NjRlYjA3MzA3YTkzYjc2Nzg1NDY1NDJmNmJmMDExOWMxOWUxYjk1NTdmYTdkNjZjOGMzNmQ=--8aa6e6d03dd0e7b5c5e7090e16f154ba61e09af0">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="ED41:7D02:995097:11604E8:5B69F427" data-pjax-transient>
+  <meta name="request-id" content="C924:7CFF:3B5253:74F52F:5B69FFD1" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="ED41:7D02:995097:11604E8:5B69F427" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="1450004" /><meta name="octolytics-actor-login" content="jlooper" /><meta name="octolytics-actor-hash" content="a711c873f08b71489edcd6136086a5ad06e48fd6d7fcab89c9d35d41991706b0" />
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="C924:7CFF:3B5253:74F52F:5B69FFD1" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="1450004" /><meta name="octolytics-actor-login" content="jlooper" /><meta name="octolytics-actor-hash" content="a711c873f08b71489edcd6136086a5ad06e48fd6d7fcab89c9d35d41991706b0" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -68,11 +68,11 @@
     <meta name="user-login" content="jlooper">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MDRhODI4ZTc4MjMwY2UwYjA2N2Y2YzZmM2JjZTRiYWM5ZDAzMmY3ZjY0NTc2YzU1OWRmNGQyOTdjMTI0NTFhYXx7InJlbW90ZV9hZGRyZXNzIjoiNzMuMTcuMTA1LjIyMiIsInJlcXVlc3RfaWQiOiJFRDQxOjdEMDI6OTk1MDk3OjExNjA0RTg6NUI2OUY0MjciLCJ0aW1lc3RhbXAiOjE1MzM2NzA0NDMsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="MDU3NWQwZmFhOWQyMzIwNTRjZjg3NDZkZmU3MzQzMzVmMmU3ZThlYzZiZTZlNWQwZjQ0NGZlYjdhMWZhMzUzNHx7InJlbW90ZV9hZGRyZXNzIjoiNzMuMTcuMTA1LjIyMiIsInJlcXVlc3RfaWQiOiJDOTI0OjdDRkY6M0I1MjUzOjc0RjUyRjo1QjY5RkZEMSIsInRpbWVzdGFtcCI6MTUzMzY3MzQyOCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
-    <meta name="enabled-features" content="LOG_ACCESSIBILITY,DASHBOARD_V2_LAYOUT_OPT_IN,EXPLORE_DISCOVER_REPOSITORIES,UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_PLAN_RESTRICTION_EDITOR,MARKETPLACE_SEARCH,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES,MARKETPLACE_RETARGETING">
+    <meta name="enabled-features" content="DASHBOARD_V2_LAYOUT,DASHBOARD_V2_LAYOUT_OPT_IN,EXPLORE_DISCOVER_REPOSITORIES,UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_PLAN_RESTRICTION_EDITOR,MARKETPLACE_SEARCH,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES,MARKETPLACE_RETARGETING">
 
-  <meta name="html-safe-nonce" content="58e753bb07c3d439711a6b203a57135f93cf64bd">
+  <meta name="html-safe-nonce" content="f3c0666072a9132a599b93fbabd852e8554ab358">
 
   <meta http-equiv="x-pjax-version" content="3ab838dc64ed0728196973b8401ab7ba">
   
@@ -153,7 +153,7 @@
           autocapitalize="off"
           aria-autocomplete="list"
           aria-controls="jump-to-results"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=ThXMZr0CewfKBCTbVT5wccSHW4+VhC+LcJlS3vryFKP+3r3mH+5Sc7gtKeNrG+SV1Y6qlYZ4WFScbPcaaNNfog=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=tnD0ekZCNk8ZuCz2sSf7XCGjnkctMi7sq8PYcud4+xdZPv3BhoqUTHQ17uNswQ9bk2vkjMuYMEjqA5ijVFXclA=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -301,7 +301,7 @@
           <li><a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a></li>
           <li><a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a></li>
           <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Nk+BQgs9YNTt17x1Pj/GIOT7eoD0WmhSyx3x6Sn5GFzk4WOPyTuTbjU3+/P5AYXky7R+VK1L2eTQIe80cfbEPw==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="cmmTiSUcecLquGrrgpBxqU6fp72mnggFantcM5AzOaGzqOl+ZvHW+JsIM6A3GMss67tP5Q0fYOFiyCyrsEYOQw==" />
               <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
                 Sign out
               </button>
@@ -314,7 +314,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="tUqjrAqgnIXD44atug6CjOponpEAiWLdIDbEa70aKARn5EFhyKZvPxsDwSt9MMFIxSeaRVmY02s7Ctq25RX0Zw==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZjXnqS6jRE47JKJI1p2hX1VHPjzJ/G2azLa6pNBjsdqn9J1ebU7rdEqU+wNjFRva8GPWZGJ9BX7EBco88BaGOA==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -330,6 +330,16 @@
   <div id="start-of-content" class="show-on-focus"></div>
 
     <div id="js-flash-container">
+    <div class="flash flash-full flash-error">
+  <div class="container">
+      <p>
+        <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg> Your GitHub password has been reported as compromised due to re-use of that password on another service by you or someone else. GitHub has not been compromised directly.
+          To increase your security, please <a href="/settings/admin">change your password</a> as soon as possible.
+      </p>
+      <p class="text-small">Read our <a href="https://help.github.com/articles/creating-a-strong-password" class="tooltipped tooltipped-s" aria-label="Learn more about strong passwords">documentation</a> on safer password practices. See our <a href="https://blog.github.com/2018-07-31-new-improvements-and-best-practices-for-account-security-and-recoverability/" class="tooltipped tooltipped-s" aria-label="Read more about this message">blog</a> for more details.</p>
+  </div>
+</div>
+
 
 
 </div>
@@ -352,7 +362,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="3lU9I3jn2f6Rmjkvq/KO+ztmwQf1hr1bbiVHPDr4bn0MZ7Ku13xxSMDeUUvY3HfPfgGyFQj0QtUgXaydjxJ1ug==" />      <input type="hidden" name="repository_id" id="repository_id" value="142807849" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="vb2psEA3v80pO0yz1Qo0b+4K+uWx85/ECDrd4egTAyWfcCGSsMv8+aGNwq8viXA3bTj33CH58Uz15ZdjnUw96g==" />      <input type="hidden" name="repository_id" id="repository_id" value="142807849" class="form-control" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/Shantanu-Kotambkar/playground-tutorials/subscription"
@@ -432,7 +442,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/Shantanu-Kotambkar/playground-tutorials/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="PbmCPuoyxlcCkL+oJAI6/+KWo9r7dfrT+I/5fDa97VSDpryniUETz8NEs/b/hx4YOPg5ooQ1xlgVmaerT6vVuQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/Shantanu-Kotambkar/playground-tutorials/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="sIKxwMhOyz2vVfxr/cJzUEY+0NuXIL5xXwOrvqQGdYUGzzJIO9SaMUSvwjsSMnHM1T/jhlRylqxzskMrOszEVA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -447,7 +457,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/Shantanu-Kotambkar/playground-tutorials/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="wYSWk/u/FyiiWZsUVTCJFVXSeTBT6Vs3Nbz/pDkGB+U/TTfP+M8ki50xnR8GeW1UFd9IP9drbbNgb/mbULQZJA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/Shantanu-Kotambkar/playground-tutorials/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0rlwLdCtXbTwnrbBbtDfXgzK6rbiUPW0doa2bwSR7mWGGuB0UE1ddraT1w84EEugc8d+4Ap7V7OFPbU7NrZxaw==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -709,7 +719,7 @@
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Shantanu-Kotambkar/playground-tutorials/delete/master/cleanWeather-vue/images/design.gif" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="SHGt6hUfBy4kd9HLchyCDxZ4g/F5VO6BS67MAwe4R28Xvb0cpSLtAM8KLDZ/2iWgjn6rKJ1v6FfVJ+24i2HN8A==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Shantanu-Kotambkar/playground-tutorials/delete/master/cleanWeather-vue/images/design.gif" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="roSY4ulyglMF/ubGMHMj3YQcbIM+hGPlM2ueSykfBXaUab5TzSwHDfGDk3JX5a5UyxBgBuSFZ9RpIspAjL+lDg==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete the file in your fork of this project" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -756,7 +766,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.32114s from unicorn-3815415001-n17gg">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.30883s from unicorn-685d47d999-ql652">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
