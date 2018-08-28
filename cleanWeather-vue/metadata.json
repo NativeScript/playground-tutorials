@@ -5,5 +5,5 @@
 	"supportedTemplates": ["play-vue"],
 	"displayOrder": 4,
 	"targetTemplate": "play-vue",
-	"disabled": false
+	"disabled": true
 }
