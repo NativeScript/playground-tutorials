@@ -6,4 +6,6 @@ NativeScript Sidekick is a desktop development tool for building NativeScript ap
 * **[Option 2. Install the NativeScript CLI](https://docs.nativescript.org/angular/tutorial/ng-chapter-1)**  
 If you’re comfortable working with a command-line interface, you can install and work with the NativeScript CLI. The NativeScript CLI lets you build full iOS and Android apps locally on your development machine.
 
-As always, if you get stuck, feel free to reach for help on the [**NativeScript Community Forum**](https://discourse.nativescript.org/). Have fun building with NativeScript!
+As always, if you get stuck, feel free to reach for help on [**Stack Overflow**](https://stackoverflow.com/questions/tagged/nativescript) or ask our experts in [**NativeScript community Slack channel**](http://developer.telerik.com/wp-login.php?action=slack-invitation). Have fun building with NativeScript!
+
+
