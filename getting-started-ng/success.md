@@ -1,14 +1,12 @@
-Now that you’ve learned the NativeScript basics, you’re ready to move on to our next tutorial, which has you built a complete iOS and Android app from scratch. To complete the next tutorial there are several options:
+Now that you’ve learned the NativeScript basics, you’re ready to move on to our next tutorial, which has you built a complete iOS and Android app from scratch. To continue you can:
 
-* **Option 1** Complete the next tutorial in the Playground
+* **Option 1. Complete the next tutorial in Playground**  
+Complete <a id="btn-next-tutorial" href="/?template=groceries-ng&tutorial=groceries-ng"><strong>Build a Full App</strong>&nbsp;tutorial in Playground</a>
 
-* **Option 2. Work in a local environment with NativeScript CLI**  
-If you’re comfortable working with a command-line interface, you can install and work with the [NativeScript CLI](https://docs.nativescript.org/angular/start/quick-setup). The NativeScript CLI lets you build full iOS and Android apps locally on your development machine.
+* **Option 2. Start working in a local environment with NativeScript CLI & Playground Preview App**  
+If you’re comfortable working with a command-line interface, you can install NativeScript CLI by running `npm i nativescript -g` and use `tns preview` command to preview you app on real device the same way you do it in Playground. 
 
-* **Option 3. Work in a local environment with NativeScript Sidekick**  
-[NativeScript Sidekick](https://www.nativescript.org/nativescript-sidekick) is a desktop development tool for building NativeScript apps. Sidekick offers starter templates to help you get started,as well as tooling for more advanced NativeScript functionality, such as plugins, builds, and debugging. You can download and install the appropriate for your operating system: [Windows 64-bit](https://www.nativescript.org/nativescript-sidekick/download-windows-latest),  [macOS 64-bit](https://www.nativescript.org/nativescript-sidekick/download-macos-latest) or [Linux 64-bit](https://www.nativescript.org/nativescript-sidekick/download-linux-latest).
-*By downloading NativeScript Sidekick I acknowledge I have read and agree to the <a href="https://www.nativescript.org/nativescript-sidekick/eula" target="_blank">Terms of Use</a>*.
+* **Option 3. Start working in a local environment with NativeScript CLI & no limitations**  
+If you need to build a production app, you can [do a full install of NativeScript](https://docs.nativescript.org/angular/start/quick-setup) and start working without any limitations. The NativeScript CLI lets you build full native iOS and Android apps locally on your development machine.
 
 As always, if you get stuck, feel free to reach for help on [**Stack Overflow**](https://stackoverflow.com/questions/tagged/nativescript) or ask our experts in [**NativeScript community Slack channel**](http://developer.telerik.com/wp-login.php?action=slack-invitation). Have fun building with NativeScript!
-
-<a id="btn-next-tutorial" href="/?template=groceries-ng&tutorial=groceries-ng">Start the&nbsp;<strong>Build a Full App</strong>&nbsp;tutorial</a>
