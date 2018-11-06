@@ -1,10 +1,10 @@
 Now that you’ve learned the NativeScript basics, you’re ready to set up a professional development environment to build your apps.
 
-* **Option 1. Continue with NativeScript CLI & Playground Preview App**  
-If you’re comfortable working with a command-line interface, you can install the NativeScript CLI by running the `npm i nativescript -g` command, and then execute the `tns preview` command to preview your work - just as you do in Playground.
+* **[Option 1. Download NativeScript Sidekick](https://www.nativescript.org/nativescript-sidekick)**  
+NativeScript Sidekick is a desktop development tool for building NativeScript apps. Sidekick offers starter templates to help you get started,as well as tooling for more advanced NativeScript functionality, such as plugins, builds, and debugging.
 
-* **Option 2. Continue with NativeScript CLI & no limitations**  
-If you need to build a production app, you can [do a full install of NativeScript](https://docs.nativescript.org/angular/start/quick-setup) and start working without any limitations. The NativeScript CLI lets you build full native iOS and Android apps locally on your development machine.
+* **[Option 2. Install the NativeScript CLI](https://docs.nativescript.org/angular/tutorial/ng-chapter-1)**  
+If you’re comfortable working with a command-line interface, you can install and work with the NativeScript CLI. The NativeScript CLI lets you build full iOS and Android apps locally on your development machine.
 
-As always, if you get stuck, feel free to reach for help on [**Stack Overflow**](https://stackoverflow.com/questions/tagged/nativescript) or ask our experts in the [**NativeScript community Slack channel**](http://developer.telerik.com/wp-login.php?action=slack-invitation). Have fun building with NativeScript!
+As always, if you get stuck, feel free to reach for help on [**Stack Overflow**](https://stackoverflow.com/questions/tagged/nativescript) or ask our experts in [**NativeScript community Slack channel**](http://developer.telerik.com/wp-login.php?action=slack-invitation). Have fun building with NativeScript!
 
