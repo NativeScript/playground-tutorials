@@ -1,10 +1,26 @@
-Now that you’ve learned the NativeScript basics, you’re ready to set up a professional development environment to build your apps.
+Now that you have learned the basics, you’re ready to set up a local development environment to build your apps. All you need to do is:
 
-* **Option 1. Continue with NativeScript CLI & Playground Preview App**  
-If you’re comfortable working with a command-line interface, you can install the NativeScript CLI by running the `npm i nativescript -g` command, and then execute the `tns preview` command to preview your work - just as you do in Playground.
+* **Step 1. Install the NativeScript CLI**
 
-* **Option 2. Continue with NativeScript CLI & no limitations**  
-If you need to build a production app, you can [do a full install of NativeScript](https://docs.nativescript.org/start/quick-setup) and start working without any limitations. The NativeScript CLI lets you build full native iOS and Android apps locally on your development machine.
+Run the following command in a Command Prompt or Terminal to install the NativeScript CLI.
 
-As always, if you get stuck, feel free to reach for help on [**Stack Overflow**](https://stackoverflow.com/questions/tagged/nativescript) or ask our experts in the [**NativeScript community Slack channel**](http://developer.telerik.com/wp-login.php?action=slack-invitation). Have fun building with NativeScript!
+```
+npm install nativescript -g
+```
 
+* **Step 2. Create a new app**
+
+Next, run the following command to create a new NativeScript app.
+
+```
+tns create MyApp
+cd MyApp
+```
+
+* **Step 3. Preview your app**
+
+Finally, use the `tns preview` command to preview your new app on your device.
+
+```
+tns preview
+```
