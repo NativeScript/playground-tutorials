@@ -2,7 +2,7 @@ Now that you’ve learned the NativeScript basics, you’re ready to move on to 
 
 * **Option 1. Complete the next tutorial in Playground**
 
-<a id="btn-next-tutorial" href="/?template=groceries-ng&tutorial=groceries-ng">Complete the <strong>Build a Full App</strong>&nbsp;tutorial in Playground</a>
+<a id="btn-next-tutorial" href="/?template=groceries-ng&tutorial=groceries-ng">Complete the&nbsp;<strong>Build a Full App</strong>&nbsp;tutorial in Playground</a>
 
 * **Option 2. Start working in a local environment with the NativeScript CLI**
 
