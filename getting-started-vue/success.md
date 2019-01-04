@@ -1,5 +1,26 @@
-Now that you’ve learned the NativeScript-Vue basics, you’re ready to move on to your own work.
+Now that you have learned the basics, you’re ready to set up a local development environment to build your apps. All you need to do is:
 
-You can continue development in the Playground, or, if you prefer to work in a local development environment, you can continue in [NativeScript Sidekick](https://www.nativescript.org/nativescript-sidekick) or the [NativeScript command-line interface](https://docs.nativescript.org/angular/tutorial/ng-chapter-1).
+* **Step 1. Install the NativeScript CLI**
 
-As always, if you get stuck, feel free to reach for help on [**Stack Overflow**](https://stackoverflow.com/questions/tagged/nativescript) or ask our experts in [**NativeScript community Slack channel**](http://developer.telerik.com/wp-login.php?action=slack-invitation). Have fun building with NativeScript!
+Run the following command in a Command Prompt or Terminal to install the NativeScript CLI.
+
+```
+npm install nativescript -g
+```
+
+* **Step 2. Create a new app**
+
+Next, run the following command to create a new NativeScript app.
+
+```
+tns create MyApp
+cd MyApp
+```
+
+* **Step 3. Preview your app**
+
+Finally, use the `tns preview` command to preview your new app on your device.
+
+```
+tns preview
+```
