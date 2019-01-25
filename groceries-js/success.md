@@ -1,11 +1,26 @@
-Now that you’ve learned the NativeScript basics, you’re ready to set up a professional development environment to build your apps.
+Now that you have learned the basics, you’re ready to set up a local development environment to build your apps. All you need to do is:
 
-* **[Option 1. Download NativeScript Sidekick](https://www.nativescript.org/nativescript-sidekick)**  
-NativeScript Sidekick is a desktop development tool for building NativeScript apps. Sidekick offers starter templates to help you get started,as well as tooling for more advanced NativeScript functionality, such as plugins, builds, and debugging.
+* **Step 1. Install the NativeScript CLI**
 
-* **[Option 2. Install the NativeScript CLI](https://docs.nativescript.org/angular/tutorial/ng-chapter-1)**  
-If you’re comfortable working with a command-line interface, you can install and work with the NativeScript CLI. The NativeScript CLI lets you build full iOS and Android apps locally on your development machine.
+Run the following command in a Command Prompt or Terminal to install the NativeScript CLI.
 
-As always, if you get stuck, feel free to reach for help on [**Stack Overflow**](https://stackoverflow.com/questions/tagged/nativescript) or ask our experts in [**NativeScript community Slack channel**](http://developer.telerik.com/wp-login.php?action=slack-invitation). Have fun building with NativeScript!
+```
+npm install nativescript -g
+```
 
+* **Step 2. Create a new app**
 
+Next, run the following command to create a new NativeScript app.
+
+```
+tns create MyApp
+cd MyApp
+```
+
+* **Step 3. Preview your app**
+
+Finally, use the `tns preview` command to preview your new app on your device.
+
+```
+tns preview
+```
