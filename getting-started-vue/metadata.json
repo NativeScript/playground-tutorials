@@ -1,0 +1,9 @@
+{
+	"title": "Getting Started",
+	"description": "Learn the basics of NativeScript-Vue with a few quick tutorials.",
+	"estimateTime": "15",
+	"supportedTemplates": ["play-vue"],
+	"displayOrder": 1,
+	"targetTemplate": "play-vue",
+	"disabled": false
+}
